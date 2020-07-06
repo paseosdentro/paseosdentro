@@ -1,0 +1,235 @@
+html 
+
+/* DISEÑO FUENTES & COLOR */
+{
+font-size: 20px;
+font-family: 'Codystar', cursive; /* puntitos*/
+font-family: 'Lexend Tera', sans-serif;
+font-family: 'Libre Barcode 39', cursive;
+font-family: 'Major Mono Display', monospace;
+font-family: 'Zilla Slab Highlight', cursive;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Press Start 2P', cursive;
+}
+
+h1 {
+  font-family: 'Codystar', cursive;
+Font-size: 30px;
+}
+
+h2 {
+  font-family: 'Codystar', cursive; 
+Font-size: 30px;
+}
+
+h3 {
+  font-family: 'Major Mono Display', sans-serif;
+Font-size: 30px;
+}
+
+  body { background-color: white; color:#FF5027 }
+
+p {
+  font-family: 'Major Mono Display', sans-serif;
+}
+
+/* BOTONES DEL INDEX */
+
+<div style="position:relative; height:848px; width:633px; background:url(http://drive.google.com/uc?export=view&id=1yVRNZFhCMvte7tEPHoO3uJU7uakOa2do) 0 0 no-repeat;"><a style="position:absolute; top:155px; left:178px; width:24px; height:23px;" 
+
+title="Observatorio de movimientos" alt="Observatorio de movimientos" href="http://drive.google.com/uc?export=view&id=1S1c9Gd2ns0dVQfg_4IPyIgAppKW_eR5a" target="_blank"></a><a style="position:absolute; top:509px; left:506px; width:24px; height:20px;" 
+
+title=" Análisis de recorridos" alt=" Análisis de recorridos" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 3 analisis recorridos.html" target="_blank"></a><a style="position:absolute; top:367px; left:176px; width:28px; height:25px;" 
+
+title="Funciones de fábrica" alt="Funciones de fábrica" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 4 funciones de fabrica.html" target="_blank"></a><a style="position:absolute; top:660px; left:370px; width:25px; height:21px;" 
+
+title="Visiones" alt="Visiones" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 5 Visiones.html" target="_blank"></a><a style="position:absolute; top:407px; left:245px; width:26px; height:23px;" 
+
+title="Pagina 6" alt="Pagina 6" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 6.html" target="_blank"></a><a style="position:absolute; top:569px; left:39px; width:27px; height:20px;" 
+
+title="pagina 7" alt="pagina 7" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 7.html" target="_blank"></a><a style="position:absolute; top:194px; left:455px; width:21px; height:24px;" 
+
+title="pagina 8" alt="pagina 8" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 8.html" target="_self"></a><a style="position:absolute; top:627px; left:113px; width:29px; height:23px;" 
+
+title="pagina 9" alt="pagina 9" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 9.html" target="_blank"></a><a style="position:absolute; top:63px; left:236px; width:21px; height:22px;" 
+
+title="pagina 10" alt="pagina 10" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 10.html" target="_blank"></a><a style="position:absolute; top:124px; left:43px; width:24px; height:21px;" 
+
+title="pagina 11" alt="pagina 11" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 11.html" target="_blank"></a><a style="position:absolute; top:73px; left:184px; width:20px; height:16px;" 
+
+title="pagina 10 espejo" alt="pagina 10 espejo" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 10-espejo.html" target="_self"></a><a style="position:absolute; top:280px; left:317px; width:18px; height:17px;" title="pagina 12 " alt="pagina 12 " href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 12.html" target="_blank"></a><a style="position:absolute; top:288px; left:233px; width:24px; height:19px;" title="pagina 12 a" alt="pagina 12 a" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 12 a.html" target="_blank"></a><a style="position:absolute; top:278px; left:404px; width:17px; height:18px;" title="pagina 12 c" alt="pagina 12 c" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 12 c.html" target="_self"></a><a style="position:absolute; top:758px; left:131px; width:25px; height:19px;" title="observatorio de movimientos 2" alt="observatorio de movimientos 2" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR%20DENTRO/Pagina%202%20observatorio.html" target="_blank"></a><a style="position:absolute; top:698px; left:47px; width:23px; height:16px;" title="analisis de recorridos 2" alt="analisis de recorridos 2" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 3 analisis recorridos.html" target="_blank"></a><a style="position:absolute; top:703px; left:91px; width:20px; height:18px;" title="copia 8" alt="copia 8" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 8.html" target="_self"></a><a style="position:absolute; top:555px; left:178px; width:19px; height:23px;" title="copia 6" alt="copia 6" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 6.html" target="_blank"></a><a style="position:absolute; top:358px; left:588px; width:16px; height:23px;" title="atrape esquina" alt="atrape esquina" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/pagina 13 atrape esquina.html" target="_blank"></a><a style="position:absolute; top:468px; left:306px; width:22px; height:20px;" title="copia 5" alt="copia 5" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 5 Visiones.html" target="_blank"></a><a style="position:absolute; top:554px; left:335px; width:18px; height:19px;" title="Copia 4" alt="Copia 4" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 4 funciones de fabrica.html" target="_self"></a><a style="position:absolute; top:217px; left:82px; width:19px; height:18px;" title="copia 11" alt="copia 11" href="https://rupb6dzgdtzzderfhp2dsw-on.drv.tw/PASEAR DENTRO/Pagina 11.html" target="_blank"></a></div>
+
+
+
+/* SLIDE SHOW */
+* {
+margin: 0;
+padding: 0;
+list-style-type:none;
+}
+
+.thumb {
+	height:140px;
+	width:210px;
+	top:136px;
+	left:12px;
+	position:relative;
+	background-size:contain;
+	box-shadow:-12px 0 0 12px #000;
+}
+.thumb:last-of-type {
+  box-shadow:0 0 0 12px #000;
+}
+.thumb:after {
+  content:attr(title);
+  font:normal normal 20pt 'impact';
+  position:relative;
+}
+.thumb:hover {
+	-webkit-filter: grayscale(80%);
+	-moz-filter: grayscale(80%);
+	-ms-filter: grayscale(80%);
+	-o-filter: grayscale(80%);
+	filter: grayscale(80%);
+	filter: url(grayscale.svg#greyscale);
+	filter: gray;
+}
+@-webkit-keyframes TMNT {
+	0%  { left: 0px; }
+	100% { left: -1200px; }
+}
+a.prev,a.next {
+	height:91px;
+	position:absolute;
+	width:43px;
+	top:50%;
+	margin-top:-30px;
+	opacity:0.6;
+	text-indent:-99999px;
+	cursor:pointer;
+	-webkit-transition:opacity 200ms ease-out;
+}
+a.prev:hover,a.next:hover {
+	opacity:1;
+}
+.prev {
+	left:0;
+	background: #000 url('https://lh4.googleusercontent.com/-JN1IZLtuToI/UUoZnMG3C_I/AAAAAAAAAE8/SEbJ9nqXGnY/s226/sprite.png') no-repeat -200px 25px;
+}
+.next {
+	right:0;
+	background: #000 url('https://lh4.googleusercontent.com/-JN1IZLtuToI/UUoZnMG3C_I/AAAAAAAAAE8/SEbJ9nqXGnY/s226/sprite.png') no-repeat -167px 25px;
+}
+.slider {
+	height:100vh;
+	position: relative;
+}
+.slide {
+	position:absolute;
+	height:100%;
+	width:100%;
+}
+.slider .slide:target {
+	z-index: 100;
+}
+img {
+	max-width:60%;
+	width:100%;
+	position:relative;
+	left:0;
+}
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+/* BACKGROUND VIDEO */
+.vimeo-wrapper {
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   z-index: -1;
+   pointer-events: none;
+   overflow: hidden;
+}
+.vimeo-wrapper iframe {
+   width: 100vw;
+   height: 56.25vw; /* Given a 16:9 aspect ratio, 9/16*100 = 56.25 */
+   min-height: 100vh;
+   min-width: 177.77vh; /* Given a 16:9 aspect ratio, 16/9*100 = 177.77 */
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+
+/* CANVAS PARA DIBUJAR */
+canvas {
+        width: 100%;
+        height: 100%;
+        background-color: #FFFFFF;
+        opacity:0.3;
+    } 
+ 
+{box-sizing: border-box;}
+
+/* TEXTO GIRA */
+#container { margin: 0%; }
+
+#circle { position: relative; width: 100%; padding-bottom: 100%; overflow: hidden; }
+
+#circle text { font-family: 'Helvetica Neue', Arial; font-size: 16px; font-weight: bold; }
+
+#circle svg { position: absolute; left: 0; top: 0; width: 100%; height: 540px;
+
+  -webkit-animation-name: rotate;
+     -moz-animation-name: rotate;
+      -ms-animation-name: rotate;
+       -o-animation-name: rotate;
+          animation-name: rotate;
+  -webkit-animation-duration: 5s;
+     -moz-animation-duration: 5s;
+      -ms-animation-duration: 5s;
+       -o-animation-duration: 5s;
+          animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+     -moz-animation-iteration-count: infinite;
+      -ms-animation-iteration-count: infinite;
+       -o-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+     -moz-animation-timing-function: linear;
+      -ms-animation-timing-function: linear;
+       -o-animation-timing-function: linear;
+          animation-timing-function: linear;
+
+}
+
+@-webkit-keyframes rotate {
+    from { -webkit-transform: rotate(360deg); }
+    to { -webkit-transform: rotate(0); }
+}
+@-moz-keyframes rotate {
+    from { -moz-transform: rotate(360deg); }
+    to { -moz-transform: rotate(0); }
+}
+@-ms-keyframes rotate {
+    from { -ms-transform: rotate(360deg); }
+    to { -ms-transform: rotate(0); }
+}
+@-o-keyframes rotate {
+    from { -o-transform: rotate(360deg); }
+    to { -o-transform: rotate(0); }
+}
+@keyframes rotate {
+    from { transform: rotate(360deg); }
+    to { transform: rotate(0); }
+}
+
+
+
+
