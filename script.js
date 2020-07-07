@@ -12,12 +12,12 @@ observatorio
 </a>
 
 <a href="https://paseosdentro.github.io/paseosdentro/pages/page4" target="popup3"
-onClick="window.open(this.href, this.target, 'width=650px,height=600px,top=600px'); return false;">
+onClick="window.open(this.href, this.target, 'width=650px,height=450px,top=600px'); return false;">
 observatorio
 </a>
 
 <a href="https://paseosdentro.github.io/paseosdentro/pages/page5" target="popup4"
-onClick="window.open(this.href, this.target, 'width=700px,height=500px'); return false;">
+onClick="window.open(this.href, this.target, 'width=650px,height=400px'); return false;">
 observatorio
 </a>
 
