@@ -9,7 +9,7 @@ observatorio
 </a>
 
 <a href="https://paseosdentro.github.io/paseosdentro/page4" target="popup3"
-onClick="window.open(this.href, this.target, 'width=600px,height=700px'); return false;">
+onClick="window.open(this.href, this.target, 'width=650px,height=600px'); return false;">
 observatorio
 </a>
 

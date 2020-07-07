@@ -33,8 +33,128 @@ p {
   font-family: 'Major Mono Display', sans-serif;
 }
 
-/* BOTONES DEL INDEX */
+/* TEXTO RECTANGULAR */
 
+#posicionrect{
+    position: absolute;
+    font-size: 40px;
+}
+
+#cap2{
+    position: relative;
+    top: 500px;
+}
+
+#cap3{
+    position: relative;
+    top: 700px;
+}
+
+.rotar1 
+    { 
+      -webkit-transform: rotate(-45deg); 
+      -moz-transform: rotate(-45deg); 
+      -ms-transform: rotate(-45deg); 
+      -o-transform: rotate(-45deg); 
+      transform: rotate(-45deg); 
+      
+      -webkit-transform-origin: 50% 50%; 
+      -moz-transform-origin: 50% 50%; 
+      -ms-transform-origin: 50% 50%; 
+      -o-transform-origin: 50% 50%; 
+      transform-origin: 50% 50%; 
+      
+      font-size: 40%; 
+      width: 40%; 
+      position: relative; 
+      top: 50px; 
+    }
+    
+.rotar2 
+    { 
+    left: 200px;
+      -webkit-transform: rotate(45deg); 
+      -moz-transform: rotate(45deg); 
+      -ms-transform: rotate(45deg); 
+      -o-transform: rotate(45deg); 
+      transform: rotate(45deg); 
+      
+      -webkit-transform-origin: 50% 50%; 
+      -moz-transform-origin: 50% 50%; 
+      -ms-transform-origin: 50% 50%; 
+      -o-transform-origin: 50% 50%; 
+      transform-origin: 50% 50%; 
+      
+      font-size: 40%; 
+      width: 60%; 
+      position: relative; 
+      top: 190px; 
+      left: 480px;
+    } 
+    
+.rotar3 
+    { 
+    left: 10px;
+      -webkit-transform: rotate(-90deg); 
+      -moz-transform: rotate(-90deg); 
+      -ms-transform: rotate(-90deg); 
+      -o-transform: rotate(-90deg); 
+      transform: rotate(-90deg); 
+      
+      -webkit-transform-origin: 50% 50%; 
+      -moz-transform-origin: 50% 50%; 
+      -ms-transform-origin: 50% 50%; 
+      -o-transform-origin: 50% 50%; 
+      transform-origin: 50% 50%; 
+      
+      font-size: 40%; 
+      width: 250%; 
+      position: relative; 
+      top: 50px;
+      left: 10px;
+    }
+    
+.rotar4 
+    { 
+    left: 10px;
+      -webkit-transform: rotate(90deg); 
+      -moz-transform: rotate(90deg); 
+      -ms-transform: rotate(90deg); 
+      -o-transform: rotate(90deg); 
+      transform: rotate(90deg); 
+      
+      -webkit-transform-origin: 50% 50%; 
+      -moz-transform-origin: 50% 50%; 
+      -ms-transform-origin: 50% 50%; 
+      -o-transform-origin: 50% 50%; 
+      transform-origin: 50% 50%; 
+      
+      font-size: 40%; 
+      width: 250%; 
+      position: relative; 
+      top: 150px;
+      left:30px;
+    }
+    
+.rotar5 
+    { 
+      -webkit-transform: rotate(-7deg); 
+      -moz-transform: rotate(-7deg); 
+      -ms-transform: rotate(-7deg); 
+      -o-transform: rotate(-7deg); 
+      transform: rotate(-7deg); 
+      
+      -webkit-transform-origin: 50% 50%; 
+      -moz-transform-origin: 50% 50%; 
+      -ms-transform-origin: 50% 50%; 
+      -o-transform-origin: 50% 50%; 
+      transform-origin: 50% 50%; 
+      
+      font-size: 40%;  
+      position: relative; 
+      top: 200px;
+      left: 100px;
+    }
 /* SLIDE SHOW */
 * {
 margin: 0;
