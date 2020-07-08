@@ -22,7 +22,7 @@ observatorio
 </a>
 
 <a href="https://paseosdentro.github.io/paseosdentro/pages/page6" target="popup5"
-onClick="window.open(this.href, this.target, 'width=900px,height=600px, resizable=no, top=40%px, left=60%'); return false;">
+onClick="window.open(this.href, this.target, 'width=900px,height=600px, resizable=no, left=60px'); return false;">
 observatorio
 </a>
 
@@ -32,7 +32,7 @@ observatorio
 </a>
 
 <a href="https://paseosdentro.github.io/paseosdentro/pages/page8" target="popup7"
-onClick="window.open(this.href, this.target, 'width=750px,height=600px'); return false;">
+onClick="window.open(this.href, this.target, 'width=750px,height=600px,top=50px,left=50px'); return false;">
 observatorio
 </a>
 
