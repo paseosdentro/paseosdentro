@@ -15,22 +15,26 @@ font-family: 'Press Start 2P', cursive;
 h1 {
   font-family: 'Codystar', cursive;
 Font-size: 30px;
+Padding: 20px;
 }
 
 h2 {
   font-family: 'Codystar', cursive; 
 Font-size: 30px;
+Padding: 20px;
 }
 
 h3 {
   font-family: 'Major Mono Display', sans-serif;
 Font-size: 30px;
+Padding: 20px;
 }
 
   body { background-color: white; color:#FF5027 }
 
 p {
   font-family: 'Major Mono Display', sans-serif;
+  Padding: 10px;
 }
 
 /* TEXTO RECTANGULAR */
