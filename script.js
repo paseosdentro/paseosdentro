@@ -41,4 +41,8 @@ onClick="window.open(this.href, this.target, 'width=300px,height=400px,top=700px
 observatorio
 </a>
 
+var audioEl = document.getElementById("acostarse");
 
+audioEl.addEventListener('play',function(){
+       //<p>Ven. Ahí le dije. ¿Cómo le dijiste? Por esta cosa donde dice casa. Ah. Y se va a acostar... Tiene que decirle otro aquí, la otra casa. A ver si se acuesta. Puta la weona clever weón. Ni yo sé donde queda mi casa, una cosa así. Linda! se fue a acostar. Ahí se queda.</p>
+});

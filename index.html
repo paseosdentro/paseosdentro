@@ -30,12 +30,13 @@
 
 <h1 align="right">  P A S E O S : D E N T R O</h1>
 
+
 <br></br>
 <br></br>
 
 <!-- Desplazamientos video -->
 
-<div style="padding:26.94% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/424899972?autoplay=1&loop=1&color=ffffff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:80%;height:80%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+<div style="padding:26.94% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/424899972?autoplay=1&color=ffffff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:80%;height:80%;" frameborder="0" loop="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
 
 <br></br>
 <br></br>
@@ -68,17 +69,24 @@
 <table> 
 <tr> 
 <td align="left">
-<audio src="audios/vs.mp3" controls autoplay loop>
+<audio src="audios/vs.mp3" controls="boolean" autoplay>
 </audio>
 </td> 
 
 <td align="right">
-<audio src="audios/acostarse.mp3" controls autoplay loop>
-</audio> 
-</div> 
+<audio id="acostarse" src="audios/acostarse.mp3" controls="boolean" autoplay>
+<marquee behavior="scroll" direction="left"></marquee>
+
+</audio>
+
+ <marquee behavior="scroll" direction="left" scrolldelay="1" scrollamount="5" id="marquee1"><p> <font size="2"</font>Ven. Ahí le dije. ¿Cómo le dijiste? Por esta cosa donde dice casa. Ah. Y se va a acostar... Tiene que decir lo otro aquí, la otra casa. A ver si se acuesta. Puta la weona clever weón. Ni yo sé donde queda mi casa, una cosa así. Linda! se fue a acostar. Ahí se queda.</p></marquee>
+  <input type="button" value="Reiniciar" onClick="document.getElementById('marquee1').start();"/>
+
+
 </td> 
 </right>
 </tr>
+
 </table>
 
 <br></br>
@@ -114,6 +122,22 @@
 </div>
 
 <br></br>
+
+<td align="right">
+<audio id="angela" src="audios/angela.mp3" controls="boolean" autoplay>
+<marquee behavior="scroll" direction="left"></marquee>
+
+</audio>
+
+ <marquee behavior="scroll" direction="left" scrolldelay="1" scrollamount="5" id="marquee1"><p> <font size="2"</font>Le pone nombre. ¿Si? Se llama como Lizy! Ay le gusta ese nombre eh. ¿Cómo está limpiando abajo de la mesa? Cuando se hace, cuando se hace git git así, le gusta. Cuando se hace así girar como sabe girando, no le gusta. Cuando yo le dijo Lizy se ven. Yo acá me poní y yo le dije ¡ven! se ponió ahí. Se mueve. Solito se mueve esta. </p></marquee>
+  <input type="button" value="Reiniciar" onClick="document.getElementById('marquee1').start();"/>
+
+
+</td> 
+</right>
+</tr>
+
+</table>
 <br></br>
 
 <h2>Además de observarla a ella y sus interacciones con nosotros, me dieron ganas de explorar sus movimientos. </h2> 
@@ -133,19 +157,19 @@
 <tr> 
 <td align="left">
 <!-- Botón Indumentarias -->
- <a href="pages/page14.html" target="popup3">
+ <a href="pages/page14.html" target="_self">
 <img src=images/punto.gif style="max-width:40%;width:auto;height:auto;align:center"></a>
 </td>
 
 <td align="center"> 
 <!-- Paseos (cyborg) -->
- <a href="pages/page19.html" target="popup3">
+ <a href="pages/page19.html" target="_self">
 <img src=images/punto1.gif style="max-width:60%;width:auto;height:auto;align:center"></a>
 </td>
 
 <td align="right"> 
 <!-- ?? -->
- <a href="pages/page20.html" target="popup3">
+ <a href="pages/page20.html" target="_self">
 <img src=images/punto2.gif style="max-width:50%;width:auto;height:auto;align:center"></a>
 </td>
 

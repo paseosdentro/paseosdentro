@@ -582,7 +582,13 @@ canvas {
  background-position: center; 
 }
 
-
+.word {
+      color: red;
+}
+.word:hover, .word.selected {
+       color: blue;
+       cursor: pointer;
+}
 
 
 
